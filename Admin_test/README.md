@@ -3,6 +3,15 @@
 # Admin_Test
 
 ## Screens: 
+### Index.
+![Screenshot from 2023-11-14 21-40-02](https://github.com/luis11anillo/Admin_test/assets/76981798/5f38638c-b77d-4bb2-8b4f-de4da4a5d127)
+### Create
+![Screenshot from 2023-11-14 21-41-32](https://github.com/luis11anillo/Admin_test/assets/76981798/354d70a4-7586-48e1-a959-5c72d28f1fa5)
+### Show
+![Screenshot from 2023-11-14 21-42-13](https://github.com/luis11anillo/Admin_test/assets/76981798/1aff3a12-3e16-41e9-ba74-678005c93720)
+### Edit
+![Screenshot from 2023-11-14 21-42-53](https://github.com/luis11anillo/Admin_test/assets/76981798/3c8aeb65-5ac1-48cf-be9e-84aec48271ef)
+
 
 ## Frameworks & packages:
 
