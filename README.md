@@ -2,4 +2,8 @@
 
 # Test Repository :card_index_dividers:
 
-All tests are developed in **Laravel** and using other stacks. 
+All tests are developed in **Laravel** and using other stacks:
+
+- [Admin_test](https://github.com/luis11anillo/Tests/tree/master/Admin_test)
+- [DataCRM_test](https://github.com/luis11anillo/Tests/tree/master/DataCRM_test)
+- [IPS_test](https://github.com/luis11anillo/Tests/tree/master/IPS_test)
